@@ -29,7 +29,7 @@
 
 ### 📫 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/vamsi-bharadwaj-boda-19770b387)  
-- [Email](mailto:bv.bharadwaj7@gmail.com)
+- [Email](bv.bharadwaj7@gmail.com)
 
 ---
 
