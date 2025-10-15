@@ -29,7 +29,7 @@
 
 ### 📫 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/vamsi-bharadwaj-boda-19770b387)  
-- [![Email Me](https://img.shields.io/badge/Email-Me-blue?style=for-the-badge&logo=gmail)](mailto:vamsibharadwaj.ai@gmail.com)
+- [Email Me](mailto:vamsibharadwaj.ai@gmail.com)
 
 
 ---
