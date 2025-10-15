@@ -28,8 +28,8 @@
 ---
 
 ### 📫 Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/your-link)  
-- [Email](mailto:your-email@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/vamsi-bharadwaj-boda-19770b387)  
+- [Email](mailto:bv.bharadwaj7@gmail.com)
 
 ---
 
